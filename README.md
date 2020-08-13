@@ -5,3 +5,15 @@
 ```
 $ yarn
 ```
+
+## run
+
+```
+$ yarn start
+```
+
+## deploy
+
+```
+$ yarn deploy
+```
